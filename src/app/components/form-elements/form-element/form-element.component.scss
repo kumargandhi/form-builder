@@ -1,0 +1,12 @@
+.form-element {
+    padding: 15px 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    align-content: flex-start;
+
+    label {
+        padding-right: 15px;
+    }
+}
